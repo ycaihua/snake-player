@@ -1,0 +1,196 @@
+Tsnake-player
+v7
+r0
+t315130006.545078
+cCheck dependencies
+cProcessInfoPlistFile /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist snake_player-Info.plist
+cCopyStringsFile /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/john/developer/snake-player/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch snake_player_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o /Users/john/developer/snake-player/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o /Users/john/developer/snake-player/snake_playerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player normal i386
+cTouch /Users/john/developer/snake-player/build/Debug/snake-player.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C0F371200000000000000EE
+t1276065554
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/john/developer/snake-player/English.lproj/InfoPlist.strings
+c000000004D1848F1000000000000002D
+t1293437169
+s45
+
+N/Users/john/developer/snake-player/English.lproj/MainMenu.xib
+c000000004D1848F1000000000002BBA2
+t1293437169
+s179106
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app
+t1293437206
+s102
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist
+t1293437178
+s901
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player
+t1293437206
+s13832
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/PkgInfo
+t1293437178
+s8
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293437179
+s92
+
+N/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293437182
+s34457
+
+N/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o
+t1293437205
+s4848
+
+N/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake-player.LinkFileList
+c000000004D1848FA00000000000000F3
+t1293437178
+s243
+
+N/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o
+t1293437205
+s15324
+
+N/Users/john/developer/snake-player/main.m
+c000000004D1848F10000000000000108
+t1293437169
+s264
+i<Cocoa/Cocoa.h>
+
+N/Users/john/developer/snake-player/snake_playerAppDelegate.h
+c000000004D1848F10000000000000150
+t1293437169
+s336
+i<Cocoa/Cocoa.h>
+
+N/Users/john/developer/snake-player/snake_playerAppDelegate.m
+c000000004D1848F1000000000000018A
+t1293437169
+s394
+i"snake_playerAppDelegate.h"
+
+N/Users/john/developer/snake-player/snake_player_Prefix.pch
+c000000004D1848F1000000000000009B
+t1293437169
+s155
+i<Cocoa/Cocoa.h>
+
+N/var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch
+t1293437201
+s38344684
+
+Nsnake_player-Info.plist
+c000000004D1848F100000000000003EA
+t1293437169
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315129975#315129978#0(0"0(0#1#0"4386904#0"0#
+
+CCompileC build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o /Users/john/developer/snake-player/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315130001.978136
+e315130005.073478
+r1
+xCompileC
+xbuild/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o
+x/Users/john/developer/snake-player/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/john/developer/snake-player/main.m315130001#315130005#0(0"0(0#0#41"/Users/john/developer/snake-player/main.m2429063824#1500"    cd /Users/john/developer/snake-player    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-generated-files.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-own-target-headers.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-all-target-headers.hmap -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-project-headers.hmap -F/Users/john/developer/snake-player/build/Debug -I/Users/john/developer/snake-player/build/Debug/include -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources/i386 -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources -include /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch -c /Users/john/developer/snake-player/main.m -o /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o0#
+
+CCompileC build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o /Users/john/developer/snake-player/snake_playerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315130001.998456
+e315130005.355665
+r1
+xCompileC
+xbuild/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o
+x/Users/john/developer/snake-player/snake_playerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/john/developer/snake-player/snake_playerAppDelegate.m315130001#315130005#0(0"0(0#0#60"/Users/john/developer/snake-player/snake_playerAppDelegate.m2429063824#1538"    cd /Users/john/developer/snake-player    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-generated-files.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-own-target-headers.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-all-target-headers.hmap -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-project-headers.hmap -F/Users/john/developer/snake-player/build/Debug -I/Users/john/developer/snake-player/build/Debug/include -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources/i386 -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources -include /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch -c /Users/john/developer/snake-player/snake_playerAppDelegate.m -o /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o0#
+
+CCompileXIB /Users/john/developer/snake-player/English.lproj/MainMenu.xib
+s315129978.503355
+e315129982.280476
+r1
+xCompileXIB
+x/Users/john/developer/snake-player/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315129978#315129982#0(0"0(0#0#61"/Users/john/developer/snake-player/English.lproj/MainMenu.xib2429063824#320"    cd /Users/john/developer/snake-player    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/MainMenu.nib /Users/john/developer/snake-player/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s315129978.396432
+e315129979.871478
+r1
+xCopyStringsFile
+x/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315129978#315129979#0(0"0(0#0#66"/Users/john/developer/snake-player/English.lproj/InfoPlist.strings4872912#362"    cd /Users/john/developer/snake-player    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj0#
+
+CLd /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player normal i386
+s315130005.355863
+e315130006.473416
+r1
+xLd
+x/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player
+xnormal
+xi386
+lSLF07#2@96"Link /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player315130005#315130006#0(0"0(0#0#0"2429063824#543"    cd /Users/john/developer/snake-player    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/john/developer/snake-player/build/Debug -F/Users/john/developer/snake-player/build/Debug -filelist /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake-player.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player0#
+
+CProcessInfoPlistFile /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist snake_player-Info.plist
+s315129978.339109
+e315129978.395535
+r1
+xProcessInfoPlistFile
+x/Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist
+xsnake_player-Info.plist
+lSLF07#2@31"Process snake_player-Info.plist315129978#315129978#0(0"0(0#0#58"/Users/john/developer/snake-player/snake_player-Info.plist4386904#313"    cd /Users/john/developer/snake-player    builtin-infoPlistUtility snake_player-Info.plist -genpkginfo /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch snake_player_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315129982.280942
+e315130001.977815
+r1
+xProcessPCH
+x/var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch
+xsnake_player_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile snake_player_Prefix.pch315129982#315130001#0(0"0(0#0#58"/Users/john/developer/snake-player/snake_player_Prefix.pch2429063824#1407"    cd /Users/john/developer/snake-player    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-generated-files.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-own-target-headers.hmap -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-all-target-headers.hmap -iquote /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/snake-player-project-headers.hmap -F/Users/john/developer/snake-player/build/Debug -I/Users/john/developer/snake-player/build/Debug/include -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources/i386 -I/Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/DerivedSources -c /Users/john/developer/snake-player/snake_player_Prefix.pch -o /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch0#
+
+CTouch /Users/john/developer/snake-player/build/Debug/snake-player.app
+s315130006.473623
+e315130006.518999
+r1
+xTouch
+x/Users/john/developer/snake-player/build/Debug/snake-player.app
+lSLF07#2@69"Touch /Users/john/developer/snake-player/build/Debug/snake-player.app315130006#315130006#0(0"0(0#0#0"2429063824#128"    cd /Users/john/developer/snake-player    /usr/bin/touch -c /Users/john/developer/snake-player/build/Debug/snake-player.app0#
+

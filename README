@@ -1,0 +1,4 @@
+This is a fairly simple snake-playing program for Facebook (Mac only). It reads 
+pixels on-screen to determine the locations of the grid that the snake is occupy
+ing on-screen, then sends subsequent arrow commands to control the snake
+appropriately.

@@ -1,0 +1,9 @@
+1f0fd86691514c71642b18663bdf0ca6 3696ada5c6ad44c9babe252c199833c5 ffffffffffffffffffffffffffffffff 102 /Users/john/developer/snake-player/build/Debug/snake-player.app
+993307fee5fadc268d36e7dad8310ce6 3956d3501c721106c9a95121e102db1a ffffffffffffffffffffffffffffffff 13832 /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/MacOS/snake-player
+000000004d1848f1000000000002bba2 b4e09bd3470d37fffa7d91955748adc4 ffffffffffffffffffffffffffffffff 34457 /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004d1848f1000000000000002d 0b8a971b2fd4b6aedac93f0855a6cd11 ffffffffffffffffffffffffffffffff 92 /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 0717c6093408ec0175803cb650d72dc2 ffffffffffffffffffffffffffffffff 8 /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/PkgInfo
+00000000000000000000000000000000 0717c6093408ec0175803cb650d72dc2 ffffffffffffffffffffffffffffffff 901 /Users/john/developer/snake-player/build/Debug/snake-player.app/Contents/Info.plist
+e9e1acab5321920c7f2327bdbb22d906 22850f3258019abb5e732968c29ca10f ffffffffffffffffffffffffffffffff 15324 /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/snake_playerAppDelegate.o
+e9e1acab1e39dafd7f2327bdbb22d8d4 bbb608ccf6f3141dd345ceb21aad0935 ffffffffffffffffffffffffffffffff 4848 /Users/john/developer/snake-player/build/snake-player.build/Debug/snake-player.build/Objects-normal/i386/main.o
+000000000ddce299000000000000017e e9e1acab1e39dafd7f2327bdbb22d947 ffffffffffffffffffffffffffffffff 38344684 /var/folders/3b/3bPldqOzGq88ls2knM9V+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snake_player_Prefix-ejssporaasdpsvgdhhpcfqbxvyur/snake_player_Prefix.pch.gch
